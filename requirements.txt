@@ -3,3 +3,5 @@ pandas
 matplotlib
 jupyter
 nltk
+scikit-learn
+imbalanced-learn
